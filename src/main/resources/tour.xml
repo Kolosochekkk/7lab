@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel>
+        <country>Belarus</country>
+        <name>Victoria</name>
+        <stars>4</stars>
+        <price>100</price>
+    </Hotel>
+    <Hotel>
+        <country>Georgia</country>
+        <name>Gamargoba</name>
+        <stars>5</stars>
+        <price>10</price>
+    </Hotel>
+    <Hotel>
+        <country>Italy</country>
+        <name>Krutoy</name>
+        <stars>5</stars>
+        <price>1000</price>
+    </Hotel>
+    <Hotel>
+        <country>France</country>
+        <name>Bashnya</name>
+        <stars>5</stars>
+        <price>1000</price>
+    </Hotel>
+    <Hotel>
+        <country>Belarus</country>
+        <name>U Babuli</name>
+        <stars>3</stars>
+        <price>1</price>
+    </Hotel>
+</Hotels>
